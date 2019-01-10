@@ -1,4 +1,5 @@
 Saaiama finalyyyddd
+<<<<<<< HEAD
 fiinal done
 
 editeed today
@@ -6,3 +7,11 @@ editeed today
 edited again from github interface
 
 edit merge problem solved
+=======
+fiinal done 
+after fetaures
+
+
+merge develop with master work
+develop
+>>>>>>> develop
